@@ -1,12 +1,10 @@
 
-# Youtube Prática 03
+# Link YouTube
 
-Teste unitário utilizando selenium webdriver.
+Testes com Selenium Web Driver.
 
-# Execução da Aplicação:
-* gradle appRun 
+https://youtu.be/7_agYswbd0s
 
-# Execução de Teste
-* gradle test
+
 
 
